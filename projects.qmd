@@ -2,8 +2,25 @@
 title: "Projects"
 ---
 
-## Project 1
+## The COntraception Project (since 2023)
 
-## Project 2
+In this project we analyse contraceptual behavior and contraceptual decisions from a sociological perspective. 
+We argue that contraceptual responsibility – mostly carried out by women – should be understood as a form of unpaid labor, adding to other unpaid responsibilities like housework and childcare predominantly performed by women. 
+Contraceptive behavior is therefore a highly relevant study object for social inequality research. 
+Our project aims at establishing contraceptive responsibility as a dimension of social inequality and at showing how it is related to other dimension of social inequality.
 
-## Project 3
+[Project Website](https://https://projectcontraception.github.io/)
+
+## The Effect of Parental Wealth on Educational Decisions (2018-2022)
+
+Funded by the German Research Foundation (DFG). 
+Principal Investigators: Nora Müller and Klaus Pforr
+
+For more information see [here](https://www.gesis.org/projekte/parentalwealth/home).
+
+## Household Wealth Inequality in International Comparison (2010-2013)
+
+Funded by the German-Israeli Foundation (GIF). 
+Principal Investigators: Hans-Peter Blossfeld, Moshe Semyonov and Noah Lewin-Epstein
+
+For more information see [here](https://www.researchgate.net/project/Household-Wealth-Inequality-in-International-Comparison).

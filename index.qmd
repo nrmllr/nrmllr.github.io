@@ -1,19 +1,30 @@
 ---
-title: "About Me"
+title: "Nora Müller"
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image: img/pink2.png
+  image-shape: round
 ---
 
 :::{#me}
 
-## Goals
+## Who
 
-## Education
+I am an analytical-empirical social scientist. I hold a PhD and an MA in Sociology.
 
-## Experience
+## What
+
+My research is on social inequality with a special focus on wealth inequality and family-related topics.
+
+## Where
+
+I work as a senior researcher at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/home) in Mannheim, Germany.
+
+## Contact
+
+[nora.mueller@gesis.org](mailto:nora.mueller@gesis.org)
 
 :::
 
-Thanks for checking out my web site!
+<!--Thanks for checking out my web site!-->
