@@ -14,9 +14,9 @@ title: "Publications"
 
 > The above paper is part of a [Special Issue on 'Social Policy and Wealth'](https://journals.sagepub.com/toc/espa/31/5) edited by Ive Marx and Brian Nolan.
 
-* **Müller, Nora**, Nico Stawarz, and Alexandra Wicht. 2021. 'Who experiences subjective job insecurity due to digital transformation in Germany?' *Soziale Welt* 72 (4): 614–628. [doi.org/10.5771/0038-6073-2021-4-384](https://doi.org/10.5771/0038-6073-2021-4-384) [Restricted access] [Download accepted version](http://nrmllr.github.io/files/Mueller_etal_2021_Soziale_Welt_accepted_version.pdf) [Replication files](https://doi.org/10.7802/2303)
+* **Müller, Nora**, Nico Stawarz, and Alexandra Wicht. 2021. 'Who experiences subjective job insecurity due to digital transformation in Germany?' *Soziale Welt* 72 (4): 614–628. [doi.org/10.5771/0038-6073-2021-4-384](https://doi.org/10.5771/0038-6073-2021-4-384) [Restricted access] [Download accepted version](files/Mueller_etal_2021_Soziale_Welt_accepted_version.pdf) [Replication files](https://doi.org/10.7802/2303)
 
-* **Müller, Nora**, Klaus Pforr, and Oshrat Hochman. 2020. 'The non-linear relationship between parental wealth and children’s post-secondary transitions in Germany' *Soziale Welt* 71 (3): 268-307. [doi.org/10.5771/0038-6073-2020-3-268](https://doi.org/10.5771/0038-6073-2020-3-268) [Restricted access] [Download accepted version](http://nrmllr.github.io/files/Mueller_etal_2020_Soziale_Welt_accepted_version.pdf) [Replication files](https://doi.org/10.7802/2073)
+* **Müller, Nora**, Klaus Pforr, and Oshrat Hochman. 2020. 'The non-linear relationship between parental wealth and children’s post-secondary transitions in Germany' *Soziale Welt* 71 (3): 268-307. [doi.org/10.5771/0038-6073-2020-3-268](https://doi.org/10.5771/0038-6073-2020-3-268) [Restricted access] [Download accepted version](files/Mueller_etal_2020_SozialeWelt_accepted_version.pdf) [Replication files](https://doi.org/10.7802/2073)
 
 * Dräger, Jascha, and **Nora Müller**. 2020. 'Wealth stratification in the early school career in Germany' *Research in Social Stratification and Mobility* 67 100483. [doi.org/10.1016/j.rssm.2020.100483](https://doi.org/10.1016/j.rssm.2020.100483)
 
