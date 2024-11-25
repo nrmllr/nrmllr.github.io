@@ -17,11 +17,11 @@ Our project aims at establishing contraceptive responsibility as a dimension of 
 Funded by the German Research Foundation (DFG). 
 Principal Investigators: Nora Müller and Klaus Pforr
 
-For more information see [here](https://www.gesis.org/projekte/parentalwealth/home).
+<!--For more information see [here](https://www.gesis.org/projekte/parentalwealth/home).-->
 
 ## Household Wealth Inequality in International Comparison (2010-2013)
 
 Funded by the German-Israeli Foundation (GIF). 
 Principal Investigators: Hans-Peter Blossfeld, Moshe Semyonov and Noah Lewin-Epstein
 
-For more information see [here](https://www.researchgate.net/project/Household-Wealth-Inequality-in-International-Comparison). 
+<!--For more information see [here](https://www.researchgate.net/project/Household-Wealth-Inequality-in-International-Comparison).--> 
