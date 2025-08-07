@@ -10,6 +10,7 @@ website:
         text: Home
       - publications.qmd
       - projects.qmd
+      - supervision.qmd
       - cv.qmd
       - contact.qmd
     right: 
