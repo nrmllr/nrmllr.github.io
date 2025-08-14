@@ -38,7 +38,7 @@ title: "Publications"
 
 * Firl, Katrin, **Nora Müller**, and Theresa Nutz. 2025. 'Who bears the burden? Couples' resources, gender ideology and women's contraceptive labor in Germany.' [doi.org/10.31235/osf.io/qtvzu_v1](https://doi.org/10.31235/osf.io/qtvzu_v1)
 
-* **Müller, Nora**, Theresa Nutz, Katrin Firl, and Lara Guse. 2025. 'The ContraIndex: A New Framework for Understanding Contraceptive Labor.' [doi.org/10.31235/osf.io/ngdez_v3](https://doi.org/10.31235/osf.io/ngdez_v3)
+* **Müller, Nora**, Theresa Nutz, Katrin Firl, and Lara Guse. 2025. 'The ContraIndex: A New Framework for Understanding Contraceptive Labor.' [doi.org/10.31235/osf.io/ngdez_v4](https://doi.org/10.31235/osf.io/ngdez_v4)
 
 * Nutz, Theresa, **Nora Müller**, and Hao Ting Chan. 2024. 'Generational trends and predictors of hormonal contraceptive use in Germany: A machine learning approach.' **SocArXiv Papers.** [doi.org/10.31235/osf.io/k2q6w_v2](https://doi.org/10.31235/osf.io/k2q6w_v2)
 
