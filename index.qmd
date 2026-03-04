@@ -11,7 +11,7 @@ about:
 
 ## Who
 
-I am an analytical-empirical social scientist. I hold a PhD and an MA in Sociology.
+I’m an empirical social scientist with an analytical focus. I hold a PhD and an MA in Sociology.
 
 ## What
 
@@ -19,7 +19,8 @@ My research is on social inequality with a special focus on wealth inequality an
 
 ## Where
 
-I work as a senior researcher at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/home) in Mannheim, Germany.
+I work as a Senior Researcher at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/home) in Mannheim, Germany, where I am the Project Manager of the [German International Social Survey Programme](https://issp.org/member-states/germany/) (ISSP).
+
 
 ## Contact
 

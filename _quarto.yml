@@ -12,7 +12,7 @@ website:
       - projects.qmd
       - supervision.qmd
       - cv.qmd
-      - contact.qmd
+      #- contact.qmd
     right: 
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.de/citations?user=4aBRE7gAAAAJ&hl=de
