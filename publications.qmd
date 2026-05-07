@@ -4,15 +4,17 @@ title: "Publications"
 
 ## Articles in peer-reviewed journals
 
-* [Müller Nora]{.underline}, Theresa Nutz, Katrin Firl, and Lara Guse. 2026 (Forthcoming). The ContraIndex: A multidimensional measure of contraceptive returns net of labor. *Empirische Pädagogik*. 
+* [Müller, Nora]{.underline}, Theresa Nutz, Katrin Firl, and Lara Guse. 2026. 'The ContraIndex: A multidimensional measure of contraceptive returns net of labor.' *Empirische Pädagogik* 40 (1): 15-46. [doi.org/10.62350/WHDG3881](https://doi.org/10.62350/WHDG3881)
+
+* Bles, Per, [Nora Müller]{.underline}, and Lynn-Malou Lutz. 2025. 'ICT Skill Disparities across Europe: The Role of Contextual Determinants.' *Comparative Sociology* 24 (6): 749-800. doi: [doi.org/10.1163/15691330-bja10151](https://doi.org/10.1163/15691330-bja10151).
 
 * Pietrolucci, Andrea, Jascha Dräger, [Nora Müller]{.underline}, and Marco Albertini. 2025. 'The educational wealth divide in Europe: Post-secondary enrollment gaps across parental wealth components and countries.' *Research in Social Stratification and Mobility* 101086. [doi.org/10.1016/j.rssm.2025.101086](https://doi.org/10.1016/j.rssm.2025.101086)
 
 * Dräger, Jascha, [Nora Müller]{.underline}, and Klaus Pforr. 2025. 'The Keys to the House : How Wealth Transfers Stratify Homeownership Opportunities.' *Social Science Research* 129 (July 2025): 103190. [doi.org/10.1016/j.ssresearch.2025.103190](https://doi.org/10.1016/j.ssresearch.2025.103190)
 
-* Alexandra Wicht, [Nora Müller]{.underline}, and Reinhard Pollak. 2024. 'Gendered Wage Returns to Changes in Non-routine Job Tasks: Evidence from Germany' *Research in Social Stratification and Mobility* 100963. [doi.org/10.1016/j.rssm.2024.100963](https://doi.org/10.1016/j.rssm.2024.100963)
+* Wicht, Alexandra, [Nora Müller]{.underline}, and Reinhard Pollak. 2024. 'Gendered Wage Returns to Changes in Non-routine Job Tasks: Evidence from Germany' *Research in Social Stratification and Mobility* 100963. [doi.org/10.1016/j.rssm.2024.100963](https://doi.org/10.1016/j.rssm.2024.100963)
 
-* Jascha Dräger, Klaus Pforr, and [Nora Müller]{.underline}. 2023. 'Why Net Worth Misrepresents Wealth Effects and What to Do About It' *Sociological Science* 10 534-558. [doi.org/10.15195/v10.a19](https://doi.org/10.15195/v10.a19) [Open access]
+* Dräger, Jascha, Klaus Pforr, and [Nora Müller]{.underline}. 2023. 'Why Net Worth Misrepresents Wealth Effects and What to Do About It' *Sociological Science* 10 534-558. [doi.org/10.15195/v10.a19](https://doi.org/10.15195/v10.a19) [Open access]
 
 * [Müller, Nora]{.underline}, Klaus Pforr, and Jascha Dräger. 2023. 'Wealth stratification and the insurance function of wealth' (Editorial) *Social inclusion* 11 (1): 128-134. [doi.org/10.17645/si.v11i1.6680](https://doi.org/10.17645/si.v11i1.6680) [Open access]
 
